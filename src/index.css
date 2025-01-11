@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ @media(max-width:500px){
+    .container{
+        flex-direction: column;
+    }}
+    
