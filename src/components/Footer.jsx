@@ -7,7 +7,7 @@ const Footer = () => {
       <h1 className='font-semibold font-mono pt-7 text-4xl'>Anuj Bhardwaj</h1>
       <p className='md:w-[500px] mt-2  mx-auto '>This website is created by me for project showcase and all the rights are reserved to me. This project is created for showcasing skills feel free to contact if you want to discuss something about project. Code of the website is also included in my GitHub page feel free to check </p>
       <div className='flex justify-center gap-7 mt-3'>
-       <a href='https://anuj-30.github.io/Grammie/'> <FaGithub className='text-4xl text-teal-500 hover:text-emerald-700' /></a>
+       <a href='https://github.com/Anuj-30/Grammie'> <FaGithub className='text-4xl text-teal-500 hover:text-emerald-700' /></a>
         <a href='https://www.linkedin.com/in/anuj-bhardwaj-513589314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
           <FaLinkedin className='text-4xl text-teal-500 hover:text-emerald-700' /></a></div>
     </div>
